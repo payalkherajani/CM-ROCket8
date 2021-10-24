@@ -35,7 +35,7 @@ const Cart = () => {
             <h2>Total Price: {cart.reduce((acc, cv) => acc + cv.discounted_price * cv.quantity, 0)} </h2>
             <h3>Total Items: {cart.length} </h3>
             {cart.length === 0 ? ("Your Cart is Empty") : ("Your Cart")}
-            <div>
+            <div style={{ display: 'flex', flexWrap: 'wrap', gap: '1px' }}>
                 {
                     cart && cart.map((item) => {
                         return (

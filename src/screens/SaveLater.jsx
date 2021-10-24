@@ -16,7 +16,7 @@ const SaveLater = () => {
         <div>
             <h2>{save_for_later.length === 0 ? ("Your SaveLater is Empty") : ("Your SaveLater")}</h2>
 
-            <div>
+            <div style={{ display: 'flex', flexWrap: 'wrap', gap: '1px' }}>
 
                 {
                     save_for_later && save_for_later.map((item) => {
