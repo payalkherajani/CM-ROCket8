@@ -1,0 +1,102 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "product_name": "Solid Men Round Neck Grey T-Shirt",
+            "product_description": "Add a fresh spin to your everyday style with this black solid polo T-shirt from Peter England Casuals by Peter England",
+            "discounted_price": 599,
+            "selling_price": 799,
+            "discount_rate": 25,
+            "image_of_product": "https://rukminim1.flixcart.com/image/495/594/krdtlzk0/t-shirt/j/n/y/3xl-pjkcprxfe58146-peter-england-original-imag56y4gqefdpdb.jpeg",
+            "brand": "PETER-ENGLAND",
+            "quantity": 1
+        },
+        {
+            "id": 2,
+            "product_name": "Solid Men Polo Neck Black T-Shirt",
+            "product_description": "Add a fresh spin to your everyday style with this black solid polo T-shirt from Peter England Casuals by Peter England.",
+            "discounted_price": 679,
+            "selling_price": 799,
+            "discount_rate": 15,
+            "image_of_product": "https://rukminim1.flixcart.com/image/800/960/kosxzm80/t-shirt/q/o/j/xl-pckpssgf699631-peter-england-original-imag36eug9kpdfu9.jpeg",
+            "brand": "PETER-ENGLAND",
+            "quantity": 1
+        },
+        {
+            "id": 3,
+            "product_name": "Self Design Men Polo Neck White T-Shirt",
+            "product_description": "Add a fresh spin to your everyday style with this white textured Polo Neck T-shirt, cut for a Slim Fitfrom Peter England Casual by Peter England.",
+            "discounted_price": 690,
+            "selling_price": 999,
+            "discount_rate": 30,
+            "image_of_product": "https://rukminim1.flixcart.com/image/800/960/kflftzk0-0/t-shirt/7/n/s/m-pckwcsgf293058-peter-england-original-imafwyf9yhv8g7pq.jpeg",
+            "quantity": 1
+        },
+        {
+            "id": 4,
+            "product_name": "Solid Women Polo Neck Black T-Shirt",
+            "product_description": "Designed for comfortable wear for sports and street-style, PUMA apparels are always fun to wear. Upgrade in style with wide range of apparels form the worlds leading and much-loved sports brand, PUMA.",
+            "discounted_price": 1091,
+            "selling_price": 1799,
+            "discount_rate": 39,
+            "image_of_product": "https://rukminim1.flixcart.com/image/800/960/kst9gnk0/t-shirt/x/n/b/s-67039901-puma-original-imag6a28uguhgkyf.jpeg",
+            "brand": "PUMA",
+            "quantity": 1
+        },
+        {
+            "id": 5,
+            "product_name": "Solid Women Round Neck Black T-Shirt",
+            "product_description": " There's a lot more to this Classics Collection T-Shirt than meets the eye. Sure, it has the relaxed fit and side slit to give you maximum freedom of movement. ",
+            "discounted_price": 1091,
+            "selling_price": 1799,
+            "discount_rate": 39,
+            "image_of_product": "https://rukminim1.flixcart.com/image/800/960/ksoz53k0/t-shirt/t/l/f/s-53160901-puma-original-imag67hzdkdpwxpm.jpeg",
+            "brand": "PUMA",
+            "quantity": 1
+        },
+        {
+            "id": 6,
+            "product_name": "Solid Women Round Neck Pink T-Shirt",
+            "product_description": "The feel of this tshirt is absolutely amazing thanks to the designers. When youre going for a stroll in the park, put this piece with a pair of chinos and sneakers to feel both comfortable and stylish outside. ",
+            "discounted_price": 919,
+            "selling_price": 2299,
+            "discount_rate": 60,
+            "image_of_product": "https://rukminim1.flixcart.com/image/800/960/kjkbv680-0/t-shirt/z/p/g/s-58594226-puma-original-imafz3nhm3rchffj.jpeg",
+            "brand": "PUMA",
+            "quantity": 1
+        },
+        {
+            "id": 7,
+            "product_name": "Girls Festive & Party Top and Skirt Set  (Red Pack of 1)",
+            "product_description": "Let your little angel look graceful, charming & gorgeously adorable look for any of the occassion, with this beautiful and graceful lehanga choli from the house of Archiecs Creations",
+            "discounted_price": 474,
+            "selling_price": 1599,
+            "discount_rate": 70,
+            "image_of_product": "https://rukminim1.flixcart.com/image/800/960/ji95yfk0/kids-lehenga-choli/t/p/y/1-2-years-kid244new-6-12m-0-diamo-original-imaewhg2dh5tkafy.jpeg",
+            "brand": "Archiecs Creation",
+            "quantity": 1
+        },
+        {
+            "id": 8,
+            "product_name": "Girls Festive & Party Top and Skirt Set  (Red Pack of 1)",
+            "product_description": "Let your little angel look graceful, charming & gorgeously adorable look for any of the occassion, with this beautiful and graceful lehanga choli from the house of Archiecs Creations",
+            "discounted_price": 474,
+            "selling_price": 1599,
+            "discount_rate": 70,
+            "image_of_product": "https://rukminim1.flixcart.com/image/800/960/ji95yfk0/kids-lehenga-choli/e/g/x/2-3-years-kid241new-6-12m-0-diamo-original-imaejbdzhk7r5k8z.jpeg",
+            "brand": "Archiecs Creation",
+            "quantity": 1
+        },
+        {
+            "id": 9,
+            "product_name": "Girls Festive & Party Top and Skirt Set  (Red Pack of 1)",
+            "product_description": "Let your little angel look graceful, charming & gorgeously adorable look for any of the occassion, with this beautiful and graceful lehanga choli from the house of Archiecs Creations",
+            "discounted_price": 474,
+            "selling_price": 1599,
+            "discount_rate": 70,
+            "image_of_product": "https://rukminim1.flixcart.com/image/800/960/ji95yfk0/kids-lehenga-choli/g/n/s/3-4-years-kid243new-6-12m-0-diamo-original-imaejbdzfu5kdeqn.jpeg",
+            "brand": "Archiecs Creation",
+            "quantity": 1
+        }
+    ]
+}
